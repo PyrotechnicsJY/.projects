@@ -1,0 +1,8 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "prog1projcets/excersises",
+        "prog1projcets/bigproject",
+        "prog1projcets"
+    ]
+}
